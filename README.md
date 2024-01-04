@@ -1,3 +1,4 @@
+![logo](https://github.com/SUzair-Ahmed/SUzair-Ahmed/blob/main/Syed%20uzair%20ahmed.png)
 <h1 align="center">Hi 👋, I'm Syed Uzair Ahmed</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
