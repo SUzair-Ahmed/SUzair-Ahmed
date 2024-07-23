@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on Ecommerce WebApplication [Goggles](https://github.com/SUzair-Ahmed/ECommerce)
 
-- 🌱 I’m currently learning **.Net MVC,WebForms,WinForms,Core**
+- 🌱 I’m currently learning **Generative AI | AI / ML | Python | Django | Mysql | Postgresql**
 
-- 💬 Ask me about **.Net ,C#, Python**
+- 💬 Ask me about **Python,Django,Postgresql,AI/ML**
 
 - 📫 How to reach me **uzairahmed0605@gmail.com**
 
