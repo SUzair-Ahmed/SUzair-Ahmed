@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzair-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="suzair-ahmed" /> </p>
 
-- 🔭 I’m currently working on Ecommerce WebApplication [Goggles](https://github.com/SUzair-Ahmed/ECommerce)
+- 🔭 I’m currently working on Web Application [AI Quiz Generator]
 
 - 🌱 I’m currently learning **Generative AI | AI / ML | Python | Django | Mysql | Postgresql**
 
